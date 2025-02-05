@@ -34,5 +34,5 @@ http://localhost:5000/api  # Adjust based on your framework and setup
 
 ## Backlink
 For hiring developers skilled in this project's technology stack, visit:
-[Python Developers](https://hng.tech/hire/python-developers)  # Adjust based on your tech stack.
+[Python Developers](https://hng.tech/hire/python-developers) .
 
